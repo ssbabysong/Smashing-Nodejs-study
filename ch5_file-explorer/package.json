@@ -1,0 +1,14 @@
+{
+  "name": "file-explorer",
+  "version": "1.0.0",
+  "description": "命令行工具cli以及fs api:首个纯node应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "chenss",
+  "license": "ISC"
+}
